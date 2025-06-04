@@ -30,4 +30,5 @@ unstructured
 pytube
 numexpr
 huggingface_hub
-psycopg2
+psycopg2-binary
+
